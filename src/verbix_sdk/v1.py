@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-
 V1_LANG_CODES = {
     "spa": "3/101",
     "por": "3/102",

@@ -1,3 +1,7 @@
+import os
+
+API_KEY = os.environ.get("VERBIX_API_KEY", "6153a464-b4f0-11ed-9ece-ee3761609078")  # API key used on the website
+
 SUPPORTED_LANGS={
     "spa": "Spanish",
     "por": "Portuguese",
