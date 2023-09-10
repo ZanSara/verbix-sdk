@@ -30,9 +30,9 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/unknown/verbix-sdk#readme"
-Issues = "https://github.com/unknown/verbix-sdk/issues"
-Source = "https://github.com/unknown/verbix-sdk"
+Documentation = "https://github.com/ZanSara/verbix-sdk#readme"
+Issues = "https://github.com/ZanSara/verbix-sdk/issues"
+Source = "https://github.com/ZanSara/verbix-sdk"
 
 [tool.hatch.version]
 path = "src/verbix_sdk/__about__.py"
