@@ -11,7 +11,7 @@ requires-python = ">=3.7"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "ZanSara", email = "sarazanzo94@gmail.com" },
+  { name = "ZanSara", email = "verbixsdk@zanzohegyi.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
