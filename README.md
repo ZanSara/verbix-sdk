@@ -7,6 +7,8 @@
 
 A minimal Python SDK for [Verbix.com](https://verbix.com).
 
+Read more about it [here](https://zansara.github.io/posts/python-verbix-sdk/).
+
 
 ## Installation
 
