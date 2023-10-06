@@ -7,10 +7,6 @@
 
 A minimal Python SDK for [Verbix.com](https://verbix.com).
 
-**Table of Contents**
-
-- [Installation](#installation)
-- [License](#license)
 
 ## Installation
 
